@@ -14,8 +14,8 @@ You need to buy some 27c256 EPROM, nothing else.
 
 > [!WARNING]
 > I haven't managed to get a 32KB game to work!
-> Before soldering the ROM to the backside, it is recommended that you make PCB for testint each Eprom.
-> To solder correctly, it is recommended that you cut the pin before
+> Before soldering the ROM to the backside, it is recommended that you make PCB for testing each Eprom.
+> It is recommended that you cut the pins before soldering
 
 
 ## Revision 1.2 Board
